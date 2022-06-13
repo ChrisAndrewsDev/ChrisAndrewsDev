@@ -5,9 +5,10 @@
   <a href="https://www.linkedin.com/in/chris-andrews-0866a0233/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <!--- Add this back in once the final site is live
   <a>
   <img src="https://img.shields.io/badge/-Portfolio-brightgreen?style=for-the-badge&logo=appveyor"  height="28" alt="Portfolio"/>
-  </a>
+  </a> -->
 </div>
 
 <div align="center">
