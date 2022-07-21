@@ -67,7 +67,7 @@
 
 # A little about me
 
-- :telescope: I’m studying fullstack development at Holmesglen.
+- :telescope: I’m studying fullstack development.
 
 - :seedling: I enjoy front-end design and development!.
 
