@@ -67,8 +67,8 @@
 
 # A little about me
 
-- :telescope: I’m studying fullstack development.
+- :telescope: I’m a fullstack developer (mainly front-end :P).
 
 - :seedling: I enjoy front-end design and development!.
 
-- :zap: In my free time, I play chess and guitar, as well as learn new technologies.
+- :zap: In my free time, I play chess, read, listen to music as well as learn new technologies.
